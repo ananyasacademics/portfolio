@@ -1,11 +1,11 @@
 # Ananya Desai — Project Portfolio
-This repository contains technical projects I have built independently to explore cybersecurity, data analysis, and system design. 
-Each project focuses on learning how real-world systems work, using prototypes and simulations rather than production deployments.
+This repository contains technical projects I have built independently to explore cybersecurity, data analysis, and system design.
+Each project emphasizes learning how real-world systems work through prototypes and simulations rather than production deployments.
 
 ## Projects
 ### Secure Flight Data Analyzer (Completed)
 A Python-based project built to explore how flight data can be analyzed safely and transparently. 
-The project uses publicly accessible techniques and simulated or non-sensitive data to identify unusual patterns in flight behavior, with an emphasis on explainable, rule-based and statistical methods. 
+The project uses publicly accessible API's and simulated or non-sensitive data to identify unusual patterns in flight behavior, with an emphasis on explainable, rule-based and statistical methods. 
 
 Repo: https://github.com/ananyasacademics/secure-flight-log-analyzer
 
