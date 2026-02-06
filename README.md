@@ -6,8 +6,8 @@ All projects are developed independently unless otherwise stated.
 ## Projects
 
 ### Secure Flight Data Analyzer (READY)
-A Python-based tool that integrates live aviation APIs to analyze flight routes and delays and flag unusual patterns.  
-Repo: https://github.com/ananyasacademics/secure-flight-data-analyzer
+A Python-based tool that integrates live aviation APIs (simulated) to analyze flight routes and delays and flag unusual patterns.  
+Repo: https://github.com/ananyasacademics/secure-flight-log-analyzer
 
 ### Offline Blood Donation Coordination App (IN PROGRESS — Mar 6, 2026 - to be submitted for Regional Science Fair)
 Offline-first mobile app for coordinating blood donors in low-connectivity areas using local storage, CSV import/export, and SMS/call workflows.  
