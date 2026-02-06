@@ -6,7 +6,7 @@ All projects are developed independently unless otherwise stated.
 ## Projects
 
 ### Secure Flight Data Analyzer (READY)
-A Python-based tool that integrates live aviation APIs (simulated) to analyze flight routes and delays and flag unusual patterns.  
+A Python-based tool that integrates live aviation APIs to analyze flight routes and delays and flag unusual patterns.  
 Repo: https://github.com/ananyasacademics/secure-flight-log-analyzer
 
 ### Offline Blood Donation Coordination App (IN PROGRESS - STEP / Science Fair, March 6)
