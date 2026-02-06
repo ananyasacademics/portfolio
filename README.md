@@ -19,7 +19,7 @@ Repo: https://github.com/ananyasacademics/hospital-privacy-risk-simulation
 
 ### Genomic Data Pipeline Security Analysis (IN PROGRESS — ETA summer)
 Threat modeling and security analysis across genomic workflows (FASTQ → BAM → VCF).  
-Repo: https://github.com/ananyasacademics/genomic-data-pipeline-security
+Repo: https://github.com/ananyasacademics/learning-genomic-data-security
 
 ## Contact
 Email: ananyasacademics@gmail.com  
