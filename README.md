@@ -1,37 +1,35 @@
 # Ananya Desai — Project Portfolio
-
-This repository serves as a verification hub for the technical projects listed on my resume.
-All projects are developed independently unless otherwise stated.
+This repository contains technical projects I have built independently to explore cybersecurity, data analysis, and system design. 
+Each project focuses on learning how real-world systems work, using prototypes and simulations rather than production deployments.
 
 ## Projects
+### Secure Flight Data Analyzer (Completed)
+A Python-based project built to explore how flight data can be analyzed safely and transparently. 
+The project uses publicly accessible techniques and simulated or non-sensitive data to identify unusual patterns in flight behavior, with an emphasis on explainable, rule-based and statistical methods. 
 
-### Secure Flight Data Analyzer (READY)
-A Python-based tool that integrates live aviation APIs to analyze flight routes and delays and flag unusual patterns.  
 Repo: https://github.com/ananyasacademics/secure-flight-log-analyzer
 
 ### Offline Blood Donation Coordination App (IN PROGRESS - STEP / Science Fair, March 6)
-Offline-first mobile application designed to coordinate blood donors in low-connectivity environments. 
-The app supports local data storage, bulk CSV import/export, multilingual interfaces, and SMS/call workflows to enable rapid donor matching without internet access.
+An offline-first mobile app designed to support blood donation coordination in low-connectivity environments. The project focuses on system design challenges such as local data storage, CSV-based data exchange, multilingual support, and SMS/call workflows for rapid donor matching without continuous internet access.
 
-Status: MVP development in progress. Repository will be made public with documentation, screenshots, and demo after submission.
+Status: MVP development in progress. 
+Repository will be made public with documentation, screenshots, and demo after submission.
 
 ### Hospital Privacy Risk Simulation (IN PROGRESS - Regional Science Fair, March 6)
-Research-focused project modeling hospital access logs to study insider privacy risks and early breach detection. The project uses synthetic data to simulate realistic
-access behavior and evaluates rule-based and machine learning approaches (e.g., anomaly detection, logistic regression) using precision/recall and ROC-AUC metrics.
+A research-focused project modeling hospital access logs to study insider privacy risks and early warning signals for inappropriate access. Using synthetic data, the project simulates realistic access behavior and explores rule-based and basic statistical approaches to anomaly detection to understand tradeoffs between sensitivity, false positives, and transparency.
 
-Status: Active development. Code and results will be published after science fair submission to ensure completeness and clarity.
+Status: Active development. 
+Repository will be made public with cde and results after science fair submission to ensure completeness and clarity.
 
-### Genomic Data Pipeline Security Analysis (IN PROGRESS - ETA: Summer)
-Research-in-progress project analyzing privacy and access risks across genomic data workflows (FASTQ → BAM → VCF). 
-The focus is on threat modeling, system-level risks, and mitigation strategies rather than implementation or deployment.
-- Pipeline mapping and data flow analysis
+### Genomic Data Pipeline Security Analysis (IN PROGRESS, Summer)
+An exploratory research project analyzing privacy and access risks across genomic data workflows (FASTQ → BAM → VCF). 
+The focus is on understanding system-level risks, threat modeling, and security tradeoffs rather than implementing full pipelines.
+
+- Pipeline and data flow mapping
 - Threat modeling and access risk identification
-- Documentation of assumptions and security tradeoffs
-- No real genomic data is used in this repository
+- Documentation of assumptions and design tradeoffs
+- No real genomic data is used
+- 
+Status: Exploratory Research in progress. 
 
-Status: Exploratory Research in progress 
 Repo: https://github.com/ananyasacademics/learning-genomic-data-security
-
-## Contact
-Email: ananyasacademics@gmail.com  
-GitHub: https://github.com/ananyasacademics
