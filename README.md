@@ -1,4 +1,4 @@
-# Ananya Desai — Project Portfolio
+# Ananya Desai - Project Portfolio
 This repository contains technical projects I have built independently to explore cybersecurity, data analysis, and system design.
 Each project emphasizes learning how real-world systems work through prototypes and simulations rather than production deployments.
 
