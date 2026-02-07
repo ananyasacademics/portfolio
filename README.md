@@ -29,7 +29,7 @@ The focus is on understanding system-level risks, threat modeling, and security 
 - Threat modeling and access risk identification
 - Documentation of assumptions and design tradeoffs
 - No real genomic data is used
-- 
+
 Status: Exploratory Research in progress. 
 
 Repo: https://github.com/ananyasacademics/learning-genomic-data-security
